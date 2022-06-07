@@ -1,0 +1,11 @@
+#!/bin/bash
+cd HW_01
+mkdir fn_1 fn_2 fn_3
+cd fn_1
+touch f1.txt f2.txt f3.txt f4.json f5.json
+mkdir fn_4 fn_5 fn_6
+ls -la
+mv f1.txt fn_4/f1.txt
+cd ..
+mv fn_1/f5.json fn_3/f5.json
+
