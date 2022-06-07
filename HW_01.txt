@@ -69,11 +69,11 @@
 	date +%c
 
 Задание *
-1. Отправить http запрос на сервер http://162.55.220.72:5005/terminal-hw-request
-	curl http://162.55.220.72:5005/terminal-hw-request
+1. Отправить http запрос на сервер http://162.55.220.72:****/terminal-hw-request
+	curl http://162.55.220.72:****/terminal-hw-request
 
 1.1. и ответить на вопрос как тебя зовут и сколько тебе лет
-	curl "http://162.55.220.72:5005/get_method?name=Eugenia&age=27"
+	curl "http://162.55.220.72:****/get_method?name=Eugenia&age=27"
 
 2. Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
 
