@@ -8,4 +8,3 @@ ls -la
 mv f1.txt fn_4/f1.txt
 cd ..
 mv fn_1/f5.json fn_3/f5.json
-
